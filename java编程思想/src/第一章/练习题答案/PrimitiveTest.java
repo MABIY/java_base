@@ -5,6 +5,7 @@ package 第一章.练习题答案;
  */
 public class PrimitiveTest {
     static int i;
+//    static char c ='\u0021';
     static char c;
 
     public static void main(String[] args) {
