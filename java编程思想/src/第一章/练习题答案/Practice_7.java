@@ -12,7 +12,7 @@ class Incrementable {
     }
 }
 
-public class ITest {
+public class Practice_7 {
     public static void main(String[] args) {
         System.out.println("StaticTest.i"+ StaticTest.i);
         StaticTest st1 = new StaticTest();
