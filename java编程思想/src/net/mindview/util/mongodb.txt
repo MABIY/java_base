@@ -1,0 +1,1 @@
+ mongod -dbpath /mnt/mon[root@iZuf6j15c73h2vj1wkch62Z mongodb]# mongod -dbpath /mnt/mongodb/db -logpath /mnt/mongodb/log/mongo.log -logappend -fork -port 27017
