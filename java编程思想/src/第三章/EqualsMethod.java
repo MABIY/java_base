@@ -1,7 +1,7 @@
 package 第三章;
 
 /**
- * Created by lh on 17-5-26.
+ * Created by lh on 17-6-16.
  */
 public class EqualsMethod {
     public static void main(String[] args) {
