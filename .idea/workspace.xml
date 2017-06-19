@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="839d3801-6c23-4c02-b5b6-13a7a517e460" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/BreakAndContinue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/CommaOperator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/ForEachFloat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/ForEachInt.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/ForEachString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/IfElse2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/LabeledWhile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/LabledFor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/VowelsAndConsonants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IfElseTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IntCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/SwitchTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/VampireNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第五章/SimpleConstructor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第五章/SimpleConstructor2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,23 +35,37 @@
       <file leaf-file-name="IfElseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IfElseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="450">
+              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
               <folding>
                 <marker date="1497849449027" expanded="true" signature="537:571" ph="{...}" />
-                <marker date="1497849449027" expanded="false" signature="622:656" ph="{...}" />
+                <marker date="1497849449027" expanded="true" signature="622:692" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IntCount.java">
+      <file leaf-file-name="SimpleConstructor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java编程思想/src/第五章/SimpleConstructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="234">
+              <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
               <folding>
-                <marker date="1497850851657" expanded="false" signature="689:726" ph="{...}" />
+                <element signature="e#75#76#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleConstructor2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java编程思想/src/第五章/SimpleConstructor2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,7 +74,7 @@
       <file leaf-file-name="LabledFor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/LabledFor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
+            <state relative-caret-position="486">
               <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding>
                 <marker date="1497852050551" expanded="true" signature="385:1456" ph="{...}" />
@@ -87,7 +89,7 @@
       <file leaf-file-name="LabeledWhile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/LabeledWhile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="198">
               <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
@@ -97,7 +99,7 @@
       <file leaf-file-name="BitTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/BitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
+            <state relative-caret-position="450">
               <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
               <folding />
             </state>
@@ -118,16 +120,16 @@
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VampireNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VampireNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/VampireNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="630">
               <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
               <folding>
                 <element signature="e#1106#1107#0" expanded="true" />
@@ -148,23 +150,10 @@
       <file leaf-file-name="VowelsAndConsonants.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/VowelsAndConsonants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
+            <state relative-caret-position="360">
               <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BreakAndContinue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/BreakAndContinue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-              <folding>
-                <marker date="1497850369089" expanded="true" signature="239:277" ph="{...}" />
-                <marker date="1497850369089" expanded="true" signature="818:856" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -190,8 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/.IntelliJIdea2017.1/idea64.vmoptions" />
-        <option value="$PROJECT_DIR$/java编程思想/src/第三章/AutoInc.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第三章/Equivalence.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第三章/EqualsMethod.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第三章/Bool.java" />
@@ -231,7 +218,6 @@
         <option value="$PROJECT_DIR$/java编程思想/src/第三章/URShift.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第四章/ForEachInt.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第四章/IfElse2.java" />
-        <option value="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IfElseTest.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第四章/BreakAndContinue.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IntCount.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第四章/LabledFor.java" />
@@ -241,6 +227,9 @@
         <option value="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/Fibonacci.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/Test.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/VampireNumbers.java" />
+        <option value="$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IfElseTest.java" />
+        <option value="$PROJECT_DIR$/java编程思想/src/第五章/SimpleConstructor.java" />
+        <option value="$PROJECT_DIR$/java编程思想/src/第五章/SimpleConstructor2.java" />
       </list>
     </option>
   </component>
@@ -329,12 +318,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="第四章" />
+              <option name="myItemId" value="第五章" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="练习题答案" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="SimpleConstructor2.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -351,14 +340,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="第三章" />
+              <option name="myItemId" value="第五章" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -437,6 +426,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/google_checks.xml" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -455,47 +445,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VampireNumbers">
-    <configuration default="false" name="LabledFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="第四章.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="第四章.LabledFor" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java编程思想" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="VowelsAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="第四章.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="第四章.VowelsAndConsonants" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java编程思想" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SimpleConstructor2">
     <configuration default="false" name="SwitchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -544,6 +494,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="第四章.练习题答案.VampireNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java编程思想" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="第五章.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="第五章.SimpleConstructor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java编程思想" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleConstructor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="第五章.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="第五章.SimpleConstructor2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -889,19 +879,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LabledFor" />
-      <item index="1" class="java.lang.String" itemvalue="Application.VowelsAndConsonants" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SwitchTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Fibonacci" />
-      <item index="4" class="java.lang.String" itemvalue="Application.VampireNumbers" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SwitchTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci" />
+      <item index="2" class="java.lang.String" itemvalue="Application.VampireNumbers" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SimpleConstructor" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SimpleConstructor2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.VampireNumbers" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SwitchTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.VowelsAndConsonants" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LabledFor" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SimpleConstructor2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleConstructor" />
+        <item index="2" class="java.lang.String" itemvalue="Application.VampireNumbers" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Fibonacci" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SwitchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -937,12 +927,14 @@
       <workItem from="1497707560626" duration="639000" />
       <workItem from="1497785378372" duration="5247000" />
       <workItem from="1497829214301" duration="1388000" />
-      <workItem from="1497835460214" duration="13413000" />
+      <workItem from="1497835460214" duration="13432000" />
+      <workItem from="1497864413628" duration="356000" />
+      <workItem from="1497915806728" duration="687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60037000" />
+    <option name="totallyTimeSpent" value="61099000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -954,7 +946,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-28" width="1920" height="1108" extended-state="4" />
+    <frame x="0" y="-28" width="1920" height="1108" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -964,23 +957,23 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40273395" sideWeight="0.475" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4036965" sideWeight="0.475" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14270833" sideWeight="0.45344827" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33864543" sideWeight="0.49583334" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66979164" sideWeight="0.5465517" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39494163" sideWeight="0.47604167" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39494163" sideWeight="0.47604167" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976654" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33864543" sideWeight="0.49583334" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1027,20 +1020,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java编程思想/src/第三章/MinMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java编程思想/src/第三章/BinaryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/net/mindview/util/Print.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1173,7 +1152,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1181,7 +1159,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1189,7 +1166,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12762">
           <caret line="765" column="68" lean-forward="false" selection-start-line="765" selection-start-column="68" selection-end-line="765" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1197,7 +1173,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,7 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1213,7 +1187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5094">
           <caret line="320" column="28" lean-forward="false" selection-start-line="320" selection-start-column="28" selection-end-line="320" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1221,7 +1194,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1229,9 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1239,7 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1247,10 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <marker date="1497794133359" expanded="true" signature="163:451" ph="{...}" />
-            <marker date="1497794133359" expanded="true" signature="243:343" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1258,7 +1222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1266,7 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,7 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="104" column="5" lean-forward="false" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,7 +1243,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="42" column="41" lean-forward="false" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1290,7 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1298,7 +1257,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1306,7 +1264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1314,9 +1271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1324,31 +1278,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <marker date="1497848946312" expanded="true" signature="342:376" ph="{...}" />
-            <marker date="1497848946312" expanded="true" signature="404:438" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/BreakAndContinue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
+        <state relative-caret-position="504">
           <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding>
             <marker date="1497850369089" expanded="true" signature="239:277" ph="{...}" />
             <marker date="1497850369089" expanded="true" signature="818:856" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IfElseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <marker date="1497849449027" expanded="true" signature="537:571" ph="{...}" />
-            <marker date="1497849449027" expanded="false" signature="622:656" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1365,7 +1304,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/LabledFor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
+        <state relative-caret-position="486">
           <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding>
             <marker date="1497852050551" expanded="true" signature="385:1456" ph="{...}" />
@@ -1378,7 +1317,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/LabeledWhile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="198">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
@@ -1386,7 +1325,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/VowelsAndConsonants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
+        <state relative-caret-position="360">
           <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1396,7 +1335,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/BitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
+        <state relative-caret-position="450">
           <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
           <folding />
         </state>
@@ -1410,25 +1349,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/Test.java" />
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/VampireNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="630">
           <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding>
             <element signature="e#1106#1107#0" expanded="true" />
@@ -1441,6 +1365,47 @@
             <element signature="e#1355#1356#0" expanded="true" />
             <element signature="e#1390#1391#0" expanded="true" />
             <element signature="e#1420#1421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java编程思想/src/第四章/练习题答案/IfElseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1497849449027" expanded="true" signature="537:571" ph="{...}" />
+            <marker date="1497849449027" expanded="true" signature="622:692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java编程思想/src/第五章/SimpleConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java编程思想/src/第五章/SimpleConstructor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
