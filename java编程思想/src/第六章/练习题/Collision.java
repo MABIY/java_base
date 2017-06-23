@@ -1,6 +1,9 @@
 package 第六章.练习题;
 
 import net.mindview.simple.*;
+import net.mindview.simple.*;
+import net.mindview.simple.Vector;
+
 import java.util.*;
 
 /**
