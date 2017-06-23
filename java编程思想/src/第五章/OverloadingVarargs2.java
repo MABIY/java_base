@@ -8,7 +8,7 @@ public class OverloadingVarargs2 {
         System.out.println("firest");
     }
 
-    static void f(Character... args) {
+    static void f(char c,Character... args) {
         System.out.println("second");
     }
 
