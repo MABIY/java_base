@@ -53,6 +53,5 @@ public class ConnectionManager {
         cm.getConnection();
         System.out.println(cm.getConnection());
         System.out.println(howManyLeft);
-
     }
 }
