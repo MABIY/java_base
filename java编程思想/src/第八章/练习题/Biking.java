@@ -50,6 +50,7 @@ public class Biking {
     }
 
     public static void main(String[] args) {
+        System.out.println(Integer.toHexString(127));
         Unicycle u = new Unicycle();
         Bicycle b = new Bicycle();
         Tricycle t = new Tricycle();

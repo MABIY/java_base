@@ -1,5 +1,8 @@
 package 第八章;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 /**
  * Created by lh on 17-6-26.
  */
@@ -31,6 +34,8 @@ class MoreUseful extends Useful {
 }
 public class RTTI {
     public static void main(String[] args) {
+        SimpleDateFormat sdf = new SimpleDateFormat("YYYYMMddHHmmssSSS");
+        System.out.println(new Date());
        Useful[] x = {new Useful(),new MoreUseful(),};
        x[0].f();
        x[1].g();
