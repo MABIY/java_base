@@ -12,7 +12,7 @@ interface Selector {
 }
 public class Sequence {
     private Object[] items;
-    private int next = 1;
+    private int next = 0;
 
     public Sequence(int size) {
         items = new Object[size];
