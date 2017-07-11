@@ -1,11 +1,10 @@
 package 第十章;
 
 /**
- * Created by lh on 17-7-5.
- * Create a class that holds a String. with a
- * toString() method that displays this String.
- * Add several instances of your new class to
- * Sequence object , then display them.
+ * Created by lh on 17-7-11.
+ * Create a class that holds a String,with a
+ * toString() method that dispalys this String.
+ * add serveral instances of your new class
  */
 class StringHolder {
     private String data;
@@ -14,7 +13,6 @@ class StringHolder {
         this.data = data;
     }
 
-    @Override
     public String toString() {
         return data;
     }
@@ -27,7 +25,7 @@ public class E02_SequenceOfStringHolders {
         }
         Selector selector = sequence.selector();
         while (!selector.end()) {
-            System.out.println(selector.current() + " ");
+            System.out.print(selector.current() + " " );
             selector.next();
         }
     }

@@ -1,4 +1,4 @@
-package 第十章.练习题;
+package 第十章;
 
 /**
  * Created by lh on 17-7-4.
