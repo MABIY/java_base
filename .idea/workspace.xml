@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="384a6bdc-03d9-4e49-89ba-cd54d49c7797" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第十章/DotThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第十章/DotNew.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -78,27 +78,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Parcel2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/Parcel2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding>
-                <element signature="e#194#195#0" expanded="false" />
-                <element signature="e#226#227#0" expanded="false" />
-                <element signature="e#326#327#0" expanded="false" />
-                <element signature="e#365#366#0" expanded="false" />
-                <element signature="e#395#396#0" expanded="false" />
-                <element signature="e#431#432#0" expanded="false" />
-                <element signature="e#476#477#0" expanded="false" />
-                <element signature="e#517#518#0" expanded="false" />
-                <element signature="e#551#552#0" expanded="false" />
-                <element signature="e#588#589#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Sequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/Sequence.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DotThis.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DotThis.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/DotThis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding>
                 <element signature="e#135#136#0" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
@@ -153,6 +132,18 @@
                 <element signature="e#332#333#0" expanded="true" />
                 <element signature="e#509#510#0" expanded="true" />
                 <element signature="e#543#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DotNew.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/DotNew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="class#Inner#0;class#DotNew#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -262,7 +253,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java编程思想/src/第九章/练习题/E08_FastFood.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第九章/练习题/E09_AbstractMusic5.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第九章/练习题/E10_PlayableMusic5.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第九章/练习题/filters/Waveform.java" />
@@ -313,6 +303,7 @@
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/E01_ReferenceToInnerClass.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/E03_InnerAccessingOuter.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/DotThis.java" />
+        <option value="$PROJECT_DIR$/java编程思想/src/第十章/DotNew.java" />
       </list>
     </option>
   </component>
@@ -328,9 +319,9 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-4" />
-    <option name="width" value="1920" />
-    <option name="height" value="1084" />
+    <option name="y" value="24" />
+    <option name="width" value="960" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -446,27 +437,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DotThis">
-    <configuration default="false" name="E01_ReferenceToInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="第十章.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="第十章.E01_ReferenceToInnerClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java编程思想" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DotNew">
     <configuration default="false" name="E02_SequenceOfStringHolders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -535,6 +506,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="第十章.DotThis" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java编程思想" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DotNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="第十章.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="第十章.DotNew" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -880,19 +871,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.E01_ReferenceToInnerClass" />
-      <item index="1" class="java.lang.String" itemvalue="Application.E02_SequenceOfStringHolders" />
-      <item index="2" class="java.lang.String" itemvalue="Application.E03_InnerAccessingOuter" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Sequence" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DotThis" />
+      <item index="0" class="java.lang.String" itemvalue="Application.E02_SequenceOfStringHolders" />
+      <item index="1" class="java.lang.String" itemvalue="Application.E03_InnerAccessingOuter" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Sequence" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DotThis" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DotNew" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DotThis" />
-        <item index="1" class="java.lang.String" itemvalue="Application.E03_InnerAccessingOuter" />
-        <item index="2" class="java.lang.String" itemvalue="Application.E02_SequenceOfStringHolders" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Sequence" />
-        <item index="4" class="java.lang.String" itemvalue="Application.E01_ReferenceToInnerClass" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DotNew" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DotThis" />
+        <item index="2" class="java.lang.String" itemvalue="Application.E03_InnerAccessingOuter" />
+        <item index="3" class="java.lang.String" itemvalue="Application.E02_SequenceOfStringHolders" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -936,12 +927,12 @@
       <workItem from="1499233311909" duration="21000" />
       <workItem from="1499752366358" duration="1475000" />
       <workItem from="1499756439251" duration="6463000" />
-      <workItem from="1499765382115" duration="2027000" />
+      <workItem from="1499765382115" duration="2262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67023000" />
+    <option name="totallyTimeSpent" value="67258000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -953,7 +944,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="0" y="24" width="960" height="1056" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -964,14 +955,14 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3144654" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32397407" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41648352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44505495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017819706" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26241902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1017,13 +1008,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java编程思想/src/第八章/Sandwich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///opt/jdk1.8.0_131/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23313">
@@ -1452,8 +1436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/DotThis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
@@ -1461,6 +1445,16 @@
             <element signature="e#332#333#0" expanded="true" />
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/DotNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="class#Inner#0;class#DotNew#0" expanded="false" />
           </folding>
         </state>
       </provider>
