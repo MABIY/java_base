@@ -1,5 +1,7 @@
 package 第十章;
 
+import sun.security.krb5.internal.crypto.Des;
+
 /**
  * Created by lh on 17-7-12.
  */
@@ -25,6 +27,20 @@ class Parcel4 {
         }
     }
 
+    public Destination destination(String s) {
+        return new PDestination(s);
+    }
+
+    public Contents contents() {
+        return new PContents();
+    }
 }
 public class TestParcel {
+    public static void main(String[] args) {
+        Parcel4 p =  new Parcel4();
+        Contents c = p.contents();
+        Destination d = p.destination("Tasmania");
+        //Illegal -- can't access private class:
+//        Parcel4.PContents pc = p.new PContents();
+    }
 }
