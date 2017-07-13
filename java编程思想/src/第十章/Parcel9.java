@@ -9,15 +9,17 @@ public class Parcel9 {
     // Argument must be final to use inside
     // anonymous inner class:
     private String a;
-    public Destination destination(String dest) {
+    // 如果内部类回调 readLable 中的dest 对象 ,在调用代码下 b 被复制为空，而内部内一般在别的线程中 调用不存在的地址
+    // 该情况记录在gitbook 中
+    public Destination destination(final String dest) {
         return new Destination() {
-            private String label = a;
-            public String readLabel() { return label; }
+            public String readLabel() { return dest; }
         };
     }
     public static void main(String[] args) {
         Parcel9 p = new Parcel9();
-        Destination d = p.destination("Tasmania");
+        String b ="Tasmania";
+        Destination d = p.destination(b);
     }
 } ///:~
 
