@@ -6,6 +6,7 @@ package 第十章;
  */
 public abstract class Event {
     private long eventTime;
+    public int a ;
     protected final long delayTime;
 
     public Event(long delayTime) {
