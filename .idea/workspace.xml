@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="384a6bdc-03d9-4e49-89ba-cd54d49c7797" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第十章/BIgEgg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第十章/BigEgg2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第十章/E26_InnerClassInheritance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第十章/InheritInner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/第十章/LocalInnerClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java编程思想/src/十一章/ApplesAndOrangesWithoutGenerices.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,7 +46,7 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="361">
               <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -64,8 +60,8 @@
       <file leaf-file-name="E25_GreenhouseController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/E25_GreenhouseController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="608">
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding>
                 <element signature="e#486#487#0" expanded="true" />
                 <element signature="e#545#546#0" expanded="true" />
@@ -87,8 +83,8 @@
       <file leaf-file-name="InheritInner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/InheritInner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#214#215#0" expanded="true" />
                 <element signature="e#246#247#0" expanded="true" />
@@ -100,18 +96,9 @@
       <file leaf-file-name="E26_InnerClassInheritance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/E26_InnerClassInheritance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="437">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,18 +106,9 @@
       <file leaf-file-name="BIgEgg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/BIgEgg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-              <folding>
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="437">
+              <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,36 +116,34 @@
       <file leaf-file-name="BigEgg2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/BigEgg2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="304">
               <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
                 <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocalInnerClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LocalInnerClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/LocalInnerClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="513">
+              <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplesAndOrangesWithoutGenerices.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java编程思想/src/十一章/ApplesAndOrangesWithoutGenerices.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#292#322#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,7 +152,7 @@
       <file leaf-file-name="E24_GreenhouseInnerEvent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/E24_GreenhouseInnerEvent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
+            <state relative-caret-position="4370">
               <caret line="230" column="50" lean-forward="false" selection-start-line="230" selection-start-column="50" selection-end-line="230" selection-end-column="50" />
               <folding>
                 <element signature="e#416#417#0" expanded="true" />
@@ -267,8 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java编程思想/src/第十章/E08_OuterAccessingInner.java" />
-        <option value="$PROJECT_DIR$/java编程思想/src/第十章/Parcel5.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/Parcel6.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/E09_InnerClassInMethod.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/E10_InnerClassInScope.java" />
@@ -318,6 +292,8 @@
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/BigEgg2.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/LocalInnerClass.java" />
         <option value="$PROJECT_DIR$/java编程思想/src/第十章/Test.java" />
+        <option value="$PROJECT_DIR$/java编程思想/src/十一章/ApplesAndOrangesWithoutGernerices.java" />
+        <option value="$PROJECT_DIR$/java编程思想/src/十一章/ApplesAndOrangesWithoutGenerices.java" />
       </list>
     </option>
   </component>
@@ -333,9 +309,9 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-4" />
-    <option name="width" value="1920" />
-    <option name="height" value="1084" />
+    <option name="y" value="24" />
+    <option name="width" value="960" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -510,6 +486,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -572,7 +551,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="第十章" />
+              <option name="myItemId" value="十一章" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -594,149 +573,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="第十章" />
+              <option name="myItemId" value="十一章" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LocalInnerClass.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第十章" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InheritInner.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第十章" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="E26_InnerClassInheritance.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第十章" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="E25_GreenhouseController.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第十章" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigEgg2.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第十章" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BIgEgg.java" />
+              <option name="myItemId" value="ApplesAndOrangesWithoutGenerices.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1275,12 +1121,16 @@
       <workItem from="1500341710127" duration="719000" />
       <workItem from="1500353428775" duration="1459000" />
       <workItem from="1500383591720" duration="5019000" />
-      <workItem from="1500428238120" duration="11211000" />
+      <workItem from="1500428238120" duration="11607000" />
+      <workItem from="1500520011075" duration="357000" />
+      <workItem from="1500769627078" duration="209000" />
+      <workItem from="1500771659994" duration="908000" />
+      <workItem from="1500814462243" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132244000" />
+    <option name="totallyTimeSpent" value="134736000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1292,25 +1142,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="0" y="24" width="960" height="1056" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3477322" sideWeight="0.4956044" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34696016" sideWeight="0.48502675" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32397407" sideWeight="0.5043956" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08423326" sideWeight="0.3021978" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26025918" sideWeight="0.4956044" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08423326" sideWeight="0.6978022" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20641711" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="733" y="218" width="454" height="640" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63516486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="733" y="218" width="454" height="640" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12139037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2903564" sideWeight="0.4934066" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29913607" sideWeight="0.4934066" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1419,13 +1270,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/Destination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/net/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1444,7 +1288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1615,7 +1458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1630,7 +1472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1638,7 +1479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1646,22 +1486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1311">
           <caret line="83" column="28" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
-          <folding>
-            <element signature="e#237#238#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#583#584#0" expanded="false" />
-            <element signature="e#636#637#0" expanded="false" />
-            <element signature="e#677#678#0" expanded="false" />
-            <element signature="e#933#934#0" expanded="false" />
-            <element signature="e#983#984#0" expanded="false" />
-            <element signature="e#1036#1037#0" expanded="false" />
-            <element signature="e#1077#1078#0" expanded="false" />
-            <element signature="e#1248#1249#0" expanded="false" />
-            <element signature="e#1293#1294#0" expanded="false" />
-            <element signature="e#1334#1335#0" expanded="false" />
-            <element signature="e#1378#1379#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1669,16 +1493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1444">
           <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding>
-            <element signature="e#912#913#0" expanded="false" />
-            <element signature="e#969#970#0" expanded="false" />
-            <element signature="e#1022#1023#0" expanded="false" />
-            <element signature="e#1079#1080#0" expanded="false" />
-            <element signature="e#1132#1133#0" expanded="false" />
-            <element signature="e#1189#1190#0" expanded="false" />
-            <element signature="e#1259#1260#0" expanded="false" />
-            <element signature="e#1291#1292#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1686,14 +1500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
           <caret line="54" column="19" lean-forward="false" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-          <folding>
-            <element signature="e#408#409#0" expanded="false" />
-            <element signature="e#445#446#0" expanded="false" />
-            <element signature="e#481#482#0" expanded="false" />
-            <element signature="e#508#509#0" expanded="false" />
-            <element signature="e#1224#1225#0" expanded="false" />
-            <element signature="e#1266#1267#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1701,7 +1507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1330">
           <caret line="70" column="31" lean-forward="false" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1716,7 +1521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="354" column="5" lean-forward="false" selection-start-line="354" selection-start-column="5" selection-end-line="354" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1724,14 +1528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#2294#2295#0" expanded="true" />
-            <element signature="e#2334#2335#0" expanded="true" />
-            <element signature="e#2995#2996#0" expanded="true" />
-            <element signature="e#3035#3036#0" expanded="true" />
-            <element signature="e#3808#3809#0" expanded="true" />
-            <element signature="e#3848#3849#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1739,7 +1535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="162" column="11" lean-forward="false" selection-start-line="162" selection-start-column="11" selection-end-line="162" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1753,7 +1548,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="361">
           <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1765,7 +1560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/E24_GreenhouseInnerEvent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
+        <state relative-caret-position="4370">
           <caret line="230" column="50" lean-forward="false" selection-start-line="230" selection-start-column="50" selection-end-line="230" selection-end-column="50" />
           <folding>
             <element signature="e#416#417#0" expanded="true" />
@@ -1837,8 +1632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/E25_GreenhouseController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="608">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
             <element signature="e#486#487#0" expanded="true" />
             <element signature="e#545#546#0" expanded="true" />
@@ -1858,8 +1653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/InheritInner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#214#215#0" expanded="true" />
             <element signature="e#246#247#0" expanded="true" />
@@ -1869,77 +1664,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/E26_InnerClassInheritance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/BIgEgg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/BigEgg2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="304">
           <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/Test.java" />
     <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/LocalInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="513">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java编程思想/src/第十章/Test.java">
+    <entry file="file://$PROJECT_DIR$/java编程思想/src/十一章/ApplesAndOrangesWithoutGenerices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="342">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#292#322#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
