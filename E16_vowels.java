@@ -13,7 +13,7 @@ import static net.mindview.util.Print.print;
  * vowels in each input word, and also display the
  * total number of vowels in the input file.
  */
-public class E16_vowels {
+public class E16_vowels
     private final static Set<Character> vowels = new HashSet<Character>(Arrays.asList('a','e','o','u','i','A','E','O','U','I'));
 
     public static void main(String[] args) {
