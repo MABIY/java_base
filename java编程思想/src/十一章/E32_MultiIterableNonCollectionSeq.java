@@ -13,7 +13,7 @@ import java.util.*;
  * show that all approaches work in foreach
  * statements
  */
-class NonCollectionSequence extends PetSequence implements Iterable<Pet> {
+class NonCollectionSequence1 extends PetSequence implements Iterable<Pet> {
 
     public Iterable<Pet> reversed() {
         return new Iterable<Pet>() {
@@ -65,7 +65,7 @@ class NonCollectionSequence extends PetSequence implements Iterable<Pet> {
 }
 public class E32_MultiIterableNonCollectionSeq {
     public static void main(String[] args) {
-        NonCollectionSequence nc = new NonCollectionSequence();
+        NonCollectionSequence1 nc = new NonCollectionSequence1();
         for (Pet pet : nc) {
             System.out.print(pet + " ");
         }
